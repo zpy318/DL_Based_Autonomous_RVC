@@ -1,0 +1,6 @@
+devel_space: /home/peiyao/peiyao/gscam/devel
+install: false
+install_space: /home/peiyao/peiyao/gscam/install
+profile: default
+source_space: /home/peiyao/peiyao/gscam/src
+workspace: /home/peiyao/peiyao/gscam

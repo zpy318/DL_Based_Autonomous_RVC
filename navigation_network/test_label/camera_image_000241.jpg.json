@@ -1,0 +1,31 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1596882579,
+            "classId": 13400481,
+            "objectId": null,
+            "description": "",
+            "geometryType": "point",
+            "labelerLogin": "z372399100",
+            "createdAt": "2024-10-08T14:55:16.642Z",
+            "updatedAt": "2024-10-08T14:55:16.642Z",
+            "tags": [],
+            "classTitle": "tool_tip",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        308
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

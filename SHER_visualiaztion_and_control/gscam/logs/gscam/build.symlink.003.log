@@ -1,0 +1,7 @@
+Symlinking /home/peiyao/peiyao/gscam/devel/lib/libGSCamNodelet.so
+Symlinking /home/peiyao/peiyao/gscam/devel/lib/libgscam.so
+Symlinking /home/peiyao/peiyao/gscam/devel/lib/pkgconfig/gscam.pc
+Symlinking /home/peiyao/peiyao/gscam/devel/lib/gscam/gscam_node
+Symlinking /home/peiyao/peiyao/gscam/devel/lib/gscam/gscam
+Symlinking /home/peiyao/peiyao/gscam/devel/share/gscam/cmake/gscamConfig.cmake
+Symlinking /home/peiyao/peiyao/gscam/devel/share/gscam/cmake/gscamConfig-version.cmake

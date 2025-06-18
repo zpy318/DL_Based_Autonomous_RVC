@@ -1,0 +1,4 @@
+<launch>
+    <include file="$(find key_publisher)/launch/key_publisher_launch.launch" />
+    <include file="$(find key_move)/launch/key_move_launch.launch" />
+</launch>

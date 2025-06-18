@@ -1,0 +1,9 @@
+[ 16%] [32mBuilding CXX object CMakeFiles/gscam.dir/src/gscam.cpp.o[0m
+[ 33%] [32m[1mLinking CXX shared library /home/peiyao/peiyao/gscam/devel/.private/gscam/lib/libgscam.so[0m
+[ 33%] Built target gscam
+[ 50%] [32mBuilding CXX object CMakeFiles/GSCamNodelet.dir/src/gscam_nodelet.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/gscam_node.dir/src/gscam_node.cpp.o[0m
+[ 83%] [32m[1mLinking CXX executable /home/peiyao/peiyao/gscam/devel/.private/gscam/lib/gscam/gscam[0m
+[ 83%] Built target gscam_node
+[100%] [32m[1mLinking CXX shared library /home/peiyao/peiyao/gscam/devel/.private/gscam/lib/libGSCamNodelet.so[0m
+[100%] Built target GSCamNodelet

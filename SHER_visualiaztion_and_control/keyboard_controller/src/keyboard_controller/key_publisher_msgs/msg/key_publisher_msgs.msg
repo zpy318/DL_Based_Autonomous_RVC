@@ -1,0 +1,13 @@
+bool move_left
+bool move_right
+bool move_up
+bool move_down
+bool move_upward
+bool move_downward
+bool move_forward
+bool move_backward
+bool move_angle_insertion
+bool move_angle_retraction
+bool large_gain
+bool small_gain
+bool small_push
