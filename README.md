@@ -20,13 +20,13 @@ pip install -r requirements.txt
 ```
 
 # Navigation Network
-Train the navigation network using [navigation_network_train.ipynb](https://). Validate and test accuracy using [navigation_network_val_test.ipynb]().
+Train the navigation network using [navigation_network_train.ipynb](https://github.com/zpy318/DL_Based_Autonomous_RVC/blob/main/navigation_network/navigation_network_train.ipynb). Validate and test accuracy using [navigation_network_val_test.ipynb](https://github.com/zpy318/DL_Based_Autonomous_RVC/blob/main/navigation_network/navigation_network_val_test.ipynb).
 
 # Contact Network
-Train, validate, and test the contact network using [contact_network_train_val_test.ipynb](https://).
+Train, validate, and test the contact network using [contact_network_train_val_test.ipynb](https://github.com/zpy318/DL_Based_Autonomous_RVC/blob/main/contact_network/contact_network_train_val_test.ipynb).
 
 # Puncture Network
-Train the puncture network using [puncture_network_train.ipynb](https://). Validate and test accuracy using [puncture_network_val_test.ipynb]().
+Train the puncture network using [puncture_network_train.ipynb](https://github.com/zpy318/DL_Based_Autonomous_RVC/blob/main/puncture_network/puncture_network_train.ipynb). Validate and test accuracy using [puncture_network_val_test.ipynb](https://github.com/zpy318/DL_Based_Autonomous_RVC/blob/main/puncture_network/puncture_network_val_test.ipynb).
 
 # SHER Visualiaztion and Control
 **The code in this folder was developed for Steady Hand Eye Robot (SHER) at Johns Hopkins University only.** If you need to use the code for your own robot system, please adjust the code accordingly. Following the below steps in the terminal to achieve autonomous retinal vein cannulation with fixed eyes and vertical sinusoidal motion and compensation.
